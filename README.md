@@ -55,7 +55,7 @@ A few of the things you can do with Bot:
 
 ## ⚙️ Installation
 
-- Downloads Python ( Recommend the latest version )  [Python 3.13.0](https://www.python.org/downloads/)
+- Downloads Python ( Recommend the latest version )  [Python 3.13](https://www.python.org/downloads/)
 -  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***"Use admin privileges when installing py.exe:*** => Tick
 
 ## 🚀 Usage
@@ -71,7 +71,7 @@ python -m pip install --upgrade pip
 - Clone or download the project
 
 ```git 
-git clone https://github.com/z3ZnSOLANA/SOLANA_SNIPER_BOT.git
+git clone https://github.com/0xkrevX/SOLANA_SNIPER_BOT.git
 ```
 
 Option 2: Download the project directly
