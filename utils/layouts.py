@@ -15,7 +15,7 @@ SWAP_LAYOUT = cStruct(
 )
 
 # Not in use right now, might be useful in future
-AMM_INFO_LAYOUT_V4 = cStruct(
+AMM_INFO_LAYOUT_V4 = cStruct( 
     'status' / Int64ul,
     'nonce' / Int64ul,
     'order_num' / Int64ul,
