@@ -61,7 +61,7 @@ A few of the things you can do with Bot:
 ## 🚀 Usage
 
 
-![GIF](https://github.com/0xkrevX/gif/raw/main/asi.gif)
+![GIF](https://github.com/0xkrevX/gif/raw/main/asiq.gif)
 
 - Update `pip` Run the following command to update pip to the latest version
 
