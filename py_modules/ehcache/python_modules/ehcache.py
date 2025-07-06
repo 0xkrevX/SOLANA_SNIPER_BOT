@@ -3,7 +3,7 @@
 ###  Notes:
 ###    This script exposes ehcache MBeans to Ganglia. The following
 ###    are exposed:
-###      - CacheHitCount
+###      - CacheHitCount 
 ###      - CacheMissCount
 ###
 ###  Changelog:
