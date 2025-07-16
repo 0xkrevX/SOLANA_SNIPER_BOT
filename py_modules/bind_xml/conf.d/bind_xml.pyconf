@@ -7,7 +7,7 @@ modules {
     }
     param port {
         value = 8053
-    }
+    } 
 
     # This module calculates all metrics (including derived) rates at
     # onces and then serves them out of a cache. This determines the
