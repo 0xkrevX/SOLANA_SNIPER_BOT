@@ -2,7 +2,7 @@ from typing import Dict, List, Optional, Union
 import time
 import numpy as np
 from datetime import datetime, timedelta
- 
+  
 class TradingStrategy:
     """Base class for all trading strategies"""
     
