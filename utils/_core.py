@@ -3,7 +3,7 @@ from spl.token.instructions import close_account, CloseAccountParams, get_associ
 from solana.rpc.types import TokenAccountOpts 
 from solana.rpc.api import RPCException 
 from solana.transaction import Transaction 
-from solana.rpc.api import Pubkey 
+from solana.rpc.api import Pubkey  
 from spl.token.client import Token
 from solana.rpc.commitment import Commitment 
 from spl_token.core import _TokenCore
