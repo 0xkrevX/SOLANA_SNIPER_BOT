@@ -126,8 +126,8 @@ Example:
 
 
 # 📞 Contact
-[Telegram](https://t.me/krezSPL)
-- Telegram : @krezSPL
+[Telegram](https://t.me/helius0x)
+- Telegram : @helius0x
 
 
   
