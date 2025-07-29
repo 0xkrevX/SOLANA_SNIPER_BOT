@@ -4,7 +4,7 @@ import numpy as np
 from datetime import datetime, timedelta
   
 class TradingStrategy:
-    """Base class for all trading strategies"""
+    """Base class for all trading strategies""" 
     
     def __init__(self, name: str, config: Dict = None):
         self.name = name
