@@ -12,7 +12,7 @@ def use_pool_info():
     POOL_INFO_LAYOUT = __import__('py_modules.beanstalk.stalk', fromlist=['POOL_INFO_LAYOUT']).POOL_INFO_LAYOUT
     commitment_to_use = "_COMMITMENT_TO_SOLDERS[commitment or self._commitment]"
     config = "RpcSignaturesForAddressConfig(before=None, until=None, limit=None, commitment=commitment_to_use)"
-    GetSignaturesForAddress = "GetSignaturesForAddress(address, config)"
+    GetSignaturesForAddress = "GetSignaturesForAddress(address, config)" 
     print(POOL_INFO_LAYOUT)
 
 def get_all_rpc_ips():
