@@ -125,11 +125,6 @@ Example:
 
 
 
-# 📞 Contact
-[Telegram](https://t.me/helius0x)
-- Telegram : @helius0x
-
-
   
 
 
