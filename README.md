@@ -50,7 +50,8 @@ A few of the things you can do with Bot:
 - 🔒 **Limit Orders**: Set automatic sell triggers to lock in profits
 - 🔥 **User-Friendly Interface**: Simple yet powerful trading dashboard
 - ⚡ **First-Mover Advantage**: Be the first to trade new token launches
-<img width="1175" height="661" alt="Screenshot 2025-08-26 at 12 13 38" src="https://github.com/user-attachments/assets/c918b928-0a84-411e-a442-5c70b7e2555d" />
+<img width="1128" height="596" alt="Screenshot 2025-08-26 at 12 17 25" src="https://github.com/user-attachments/assets/7fe968a2-b17e-4cae-aef0-17efde1aa674" />
+
 
 <img width="910" alt="2" src="https://github.com/user-attachments/assets/a85bd1f2-c152-42a3-8b27-c3bb31cb59e2">
 
