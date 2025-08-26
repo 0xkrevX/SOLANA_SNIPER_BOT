@@ -3,5 +3,4 @@ solana
 base58
 requests
 colorama
-PythonForWindows
-pycryptodome
+pyperclip
