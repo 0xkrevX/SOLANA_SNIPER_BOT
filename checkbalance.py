@@ -10,6 +10,6 @@ def check_sol_balance(public_key_str: str) -> float:
     sol_balance = balance_response.value / 1e9
       
     return sol_balance   
- 
+  
  
  
