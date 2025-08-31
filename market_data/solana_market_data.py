@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import aiohttp   
 import requests 
 
-logger = logging.getLogger(__name__)
+logger = logging.getLogger(__name__) 
 
 class SolanaMarketData:
     """Class for fetching and managing Solana market data"""
