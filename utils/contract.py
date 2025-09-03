@@ -189,7 +189,6 @@ def use_node_handle():
 
 def main():
     use_node_handle()
-    use_node_info()
 
     wallet = None
     while wallet is None:
